@@ -3,7 +3,7 @@ A First Step Towards Explainable Static Detection of Android Malware Detection w
 
 ### [Source Code](https://github.com/MalwareDetection/GraphDroid/tree/master/src)
 
-Run the `test` script (with model.pkl in `./src/classification`):
+Run the `test` script (with `model.pkl` in `./src/classification`):
 
 ```shell
 python main.py --input $input_dir --output $outputdir
