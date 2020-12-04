@@ -1,9 +1,9 @@
 # GraphDroid
-A First Step Towards Explainable Android Malware Detection with GNN.
+A First Step Towards Explainable Static Detection of Android Malware Detection with GNN.
 
 ### [Source Code](https://github.com/MalwareDetection/GraphDroid/tree/master/src)
 
-Run the script:
+Run the `test` script (with model.pkl in `./src/classification`):
 
 ```shell
 python main.py --input $input_dir --output $outputdir
@@ -51,6 +51,8 @@ $outputdir
 ```
 
 - `prediction.csv` classification results (*APK ID*, *APK Path*, *Class*).
+
+> The `train` code will be released after the paper is published.
 
 ### [Processed Graph Data](https://github.com/MalwareDetection/GraphDroid/tree/master/Datasets)
 
