@@ -1,5 +1,5 @@
 # GraphDroid
-A First Step Towards Explainable Static Detection of Android Malware Detection with GNN.
+A First Step Towards Explainable Static Detection of Android Malware with GNN.
 
 ### [Source Code](https://github.com/MalwareDetection/GraphDroid/tree/master/src)
 
